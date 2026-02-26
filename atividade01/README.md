@@ -2,6 +2,6 @@ Atividade 01 – Evolução da Web
 
 Engenharia de software - Desenvolvimento WEB
 
-Evolução da Web e Marcos históricos
+Padronização global e governança técnica
 
 Integrantes: Lucas Queiroz e Guilherme Guimarães
