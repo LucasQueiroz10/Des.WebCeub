@@ -1,5 +1,5 @@
 Desafio 3 - Entrega
 
-Uso apenas de HTML 5 - sem css.
+Uso apenas de HTML 5 semantico - sem css.
 
-Auxílio do ChatGPT para gerar o pdf ABNT e no código.
+Auxílio do ChatGPT para gerar o pdf no formato ABNT e no código.
